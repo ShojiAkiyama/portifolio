@@ -141,7 +141,8 @@ body {
     }
 
      .apresentacao__links__navegacao {
-        font-size: 0.5 rem;
+        font-size: 1.3rem ;
+        gap: 9px;
         padding: 21.5px 0 10px 10px; 
     }
 
