@@ -140,6 +140,10 @@ body {
         width: auto;
     }
 
+     .apresentacao__links__navegacao {
+        font-size: 1 rem;
+    }
+
     .rodape {
         width: auto;
     }
