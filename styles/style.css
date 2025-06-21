@@ -142,6 +142,7 @@ body {
 
      .apresentacao__links__navegacao {
         font-size: 0.5 rem;
+        padding: 21.5px 0 10px 10px; 
     }
 
     .rodape {
